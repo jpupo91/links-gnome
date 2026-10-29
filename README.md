@@ -4,6 +4,10 @@ Extensión de GNOME Shell para abrir enlaces HTTP/HTTPS con una aplicación
 elegida según el texto que aparezca en la URL. Por ejemplo, se puede enviar
 `https://meet.google.com/...` a una aplicación o instancia concreta.
 
+## Captura de pantalla
+
+![Preferencias de Links GNOME](./captura.png)
+
 ## Requisitos
 
 - GNOME Shell 45 o posterior.
