@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.links-gnome" path="/org/gnome/shell/extensions/links-gnome/">
+    <key name="rules" type="as">
+      <default>[]</default>
+      <summary>Reglas de URL y aplicación</summary>
+      <description>Lista ordenada de reglas que asignan textos de URL a aplicaciones.</description>
+    </key>
+    <key name="fallback-app" type="s">
+      <default>''</default>
+      <summary>Aplicación alternativa</summary>
+      <description>Aplicación usada cuando no coincide ninguna regla.</description>
+    </key>
+  </schema>
+</schemalist>
