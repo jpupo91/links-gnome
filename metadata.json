@@ -2,6 +2,7 @@
   "name": "Links GNOME",
   "description": "Abre enlaces con una aplicación elegida según su URL.",
   "uuid": "links-gnome@jpupo91",
+  "url": "https://github.com/jpupo91/links-gnome",
   "settings-schema": "org.gnome.shell.extensions.links-gnome",
   "shell-version": [
     "45",
